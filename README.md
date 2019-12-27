@@ -1,5 +1,5 @@
 # 
-# 
+#  Building  grid of 20x20 boxes on the page using floats / Using lists
 ## BUILT WITH
 *  HTML
 *  CSS
